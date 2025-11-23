@@ -1,0 +1,481 @@
+{
+  "result": "success",
+  "message": "Data Retrieved.",
+  "data": [
+    {
+      "source": "spotify",
+      "metric": "top_playlists",
+      "scope": "total",
+      "top_playlists": [
+        {
+          "playlist_id": "37i9dQZF1DXcBWIGoYBM5M",
+          "playlist_name": "Today’s Top Hits",
+          "external_url": "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M",
+          "followers_total": "35.3M",
+          "image_url": "https://i.scdn.co/image/ab67706f000000021ad2e6a9fc61fe249e4d74b4"
+        },
+        {
+          "playlist_id": "37i9dQZEVXbMDoHDwVN2tF",
+          "playlist_name": "Top 50 - Global",
+          "external_url": "https://open.spotify.com/playlist/37i9dQZEVXbMDoHDwVN2tF",
+          "followers_total": "17.2M",
+          "image_url": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_global_default.jpg"
+        },
+        {
+          "playlist_id": "37i9dQZF1DX5Ejj0EkURtP",
+          "playlist_name": "All Out 2010s",
+          "external_url": "https://open.spotify.com/playlist/37i9dQZF1DX5Ejj0EkURtP",
+          "followers_total": "14.5M",
+          "image_url": "https://i.scdn.co/image/ab67706f00000002d8968192efe2f409766f2ff2"
+        },
+        {
+          "playlist_id": "37i9dQZF1DWWMOmoXKqHTD",
+          "playlist_name": "Songs to Sing in the Car",
+          "external_url": "https://open.spotify.com/playlist/37i9dQZF1DWWMOmoXKqHTD",
+          "followers_total": "11M",
+          "image_url": "https://i.scdn.co/image/ab67706f00000002e7a67be84848d33ee020b0c9"
+        },
+        {
+          "playlist_id": "37i9dQZF1DX76Wlfdnj7AP",
+          "playlist_name": "Beast Mode",
+          "external_url": "https://open.spotify.com/playlist/37i9dQZF1DX76Wlfdnj7AP",
+          "followers_total": "10.9M",
+          "image_url": "https://i.scdn.co/image/ab67706f000000021c85876e7d9b8633ec32a8b9"
+        },
+        {
+          "playlist_id": "37i9dQZF1DXaXB8fQg7xif",
+          "playlist_name": "Dance Party",
+          "external_url": "https://open.spotify.com/playlist/37i9dQZF1DXaXB8fQg7xif",
+          "followers_total": "9.17M",
+          "image_url": "https://i.scdn.co/image/ab67706f00000002d2c23cff8e4056e5c891216d"
+        },
+        {
+          "playlist_id": "37i9dQZF1DXbYM3nMM0oPk",
+          "playlist_name": "Mega Hit Mix",
+          "external_url": "https://open.spotify.com/playlist/37i9dQZF1DXbYM3nMM0oPk",
+          "followers_total": "8.1M",
+          "image_url": "https://i.scdn.co/image/ab67706f000000023909428545db5e34677f01f0"
+        },
+        {
+          "playlist_id": "37i9dQZF1DXdxcBWuJkbcy",
+          "playlist_name": "Gym Hits",
+          "external_url": "https://open.spotify.com/playlist/37i9dQZF1DXdxcBWuJkbcy",
+          "followers_total": "7.95M",
+          "image_url": "https://i.scdn.co/image/ab67706f00000002636a699fcada8d04339c7803"
+        },
+        {
+          "playlist_id": "37i9dQZF1DX3rxVfibe1L0",
+          "playlist_name": "Mood Booster",
+          "external_url": "https://open.spotify.com/playlist/37i9dQZF1DX3rxVfibe1L0",
+          "followers_total": "7.86M",
+          "image_url": "https://i.scdn.co/image/ab67706f000000028191cc41d8585df6170b3e5e"
+        },
+        {
+          "playlist_id": "37i9dQZF1DWSqmBTGDYngZ",
+          "playlist_name": "Songs to Sing in the Shower",
+          "external_url": "https://open.spotify.com/playlist/37i9dQZF1DWSqmBTGDYngZ",
+          "followers_total": "7.64M",
+          "image_url": "https://i.scdn.co/image/ab67706f00000002b4fc8034217025210cc630c1"
+        },
+        {
+          "playlist_id": "6vDGVr652ztNWKZuHvsFvx",
+          "playlist_name": "Deep House 2025",
+          "external_url": "https://open.spotify.com/playlist/6vDGVr652ztNWKZuHvsFvx",
+          "followers_total": "7.1M",
+          "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84da04d9bb3164f5ece67d0893"
+        },
+        {
+          "playlist_id": "37i9dQZF1DX6aTaZa0K6VA",
+          "playlist_name": "Pop Up",
+          "external_url": "https://open.spotify.com/playlist/37i9dQZF1DX6aTaZa0K6VA",
+          "followers_total": "6.75M",
+          "image_url": "https://i.scdn.co/image/ab67706f000000024792460872a93aff6391b07d"
+        },
+        {
+          "playlist_id": "37i9dQZF1DX4dyzvuaRJ0n",
+          "playlist_name": "mint",
+          "external_url": "https://open.spotify.com/playlist/37i9dQZF1DX4dyzvuaRJ0n",
+          "followers_total": "5.78M",
+          "image_url": "https://i.scdn.co/image/ab67706f000000026dc58275996fa13f1383e6f4"
+        },
+        {
+          "playlist_id": "6xGLprv9fmlMgeAMpW0x51",
+          "playlist_name": "Dance Fruits Music - dance music to workout, game & party to ",
+          "external_url": "https://open.spotify.com/playlist/6xGLprv9fmlMgeAMpW0x51",
+          "followers_total": "4.98M",
+          "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cd4e0571ccbdbf9fc6affdcf4"
+        },
+        {
+          "playlist_id": "37i9dQZF1DX70RN3TfWWJh",
+          "playlist_name": "Workout",
+          "external_url": "https://open.spotify.com/playlist/37i9dQZF1DX70RN3TfWWJh",
+          "followers_total": "4.8M",
+          "image_url": "https://i.scdn.co/image/ab67706f00000002681908e31127979d43c8dbc6"
+        },
+        {
+          "playlist_id": "37i9dQZF1DX0BcQWzuB7ZO",
+          "playlist_name": "Dance Hits",
+          "external_url": "https://open.spotify.com/playlist/37i9dQZF1DX0BcQWzuB7ZO",
+          "followers_total": "4.38M",
+          "image_url": "https://i.scdn.co/image/ab67706f000000028ab7015bb49bda20d99bc9ad"
+        },
+        {
+          "playlist_id": "37i9dQZF1DX4JAvHpjipBk",
+          "playlist_name": "New Music Friday",
+          "external_url": "https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk",
+          "followers_total": "4.37M",
+          "image_url": "https://i.scdn.co/image/ab67706f00000002c6090fccf71dd8397bb6e89f"
+        },
+        {
+          "playlist_id": "37i9dQZF1DX2L0iB23Enbq",
+          "playlist_name": "Viral Hits",
+          "external_url": "https://open.spotify.com/playlist/37i9dQZF1DX2L0iB23Enbq",
+          "followers_total": "4.29M",
+          "image_url": "https://i.scdn.co/image/ab67706f00000002204335eb7d241ef0dbf5c5ad"
+        },
+        {
+          "playlist_id": "37i9dQZF1DWSJHnPb1f0X3",
+          "playlist_name": "Cardio",
+          "external_url": "https://open.spotify.com/playlist/37i9dQZF1DWSJHnPb1f0X3",
+          "followers_total": "4.19M",
+          "image_url": "https://i.scdn.co/image/ab67706f00000002c9708f6f371832b819823be2"
+        },
+        {
+          "playlist_id": "37i9dQZF1DXa2PvUpywmrr",
+          "playlist_name": "Party Hits",
+          "external_url": "https://open.spotify.com/playlist/37i9dQZF1DXa2PvUpywmrr",
+          "followers_total": "4.18M",
+          "image_url": "https://i.scdn.co/image/ab67706f000000029066f8429f4428ad74c4e616"
+        }
+      ]
+    },
+    {
+      "source": "deezer",
+      "metric": "top_playlists",
+      "scope": "total",
+      "top_playlists": [
+        {
+          "playlist_id": "53362031",
+          "playlist_name": "Les titres du moment",
+          "external_url": "https://www.deezer.com/playlist/53362031",
+          "followers_total": "10.3M",
+          "image_url": "https://cdn-images.dzcdn.net/images/playlist/83f69fb11ed86bf106dcc2637000986d/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "63141574",
+          "playlist_name": "Brand New UK",
+          "external_url": "https://www.deezer.com/playlist/63141574",
+          "followers_total": "5.98M",
+          "image_url": "https://cdn-images.dzcdn.net/images/playlist/765b3ca725fe06424af772f8ac04c90d/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "1111141961",
+          "playlist_name": "Top Brazil",
+          "external_url": "https://www.deezer.com/playlist/1111141961",
+          "followers_total": "5.78M",
+          "image_url": "https://cdn-images.dzcdn.net/images/playlist/dba9d2cbf84591ce56bf18a9eb4ef4c8/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "65490170",
+          "playlist_name": "Hits von heute",
+          "external_url": "https://www.deezer.com/playlist/65490170",
+          "followers_total": "5.66M",
+          "image_url": "https://cdn-images.dzcdn.net/images/playlist/c96d847e62eb625be4a8723b84e72531/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "65489431",
+          "playlist_name": "Radar Editorial",
+          "external_url": "https://www.deezer.com/playlist/65489431",
+          "followers_total": "4.8M",
+          "image_url": "https://cdn-images.dzcdn.net/images/playlist/9f5e8570429e997b0ba16233732e3148/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "1109890291",
+          "playlist_name": "Top France",
+          "external_url": "https://www.deezer.com/playlist/1109890291",
+          "followers_total": "4.38M",
+          "image_url": "https://cdn-images.dzcdn.net/images/playlist/cf960e69714cb764ad52147a2d01fd01/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "93495781",
+          "playlist_name": "TOP TIGO - 2025",
+          "external_url": "https://www.deezer.com/playlist/93495781",
+          "followers_total": "3.16M",
+          "image_url": "https://cdn-images.dzcdn.net/images/playlist/819bf8e6b692effe2682be6f6bd0d007/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "1111143121",
+          "playlist_name": "Top Germany",
+          "external_url": "https://www.deezer.com/playlist/1111143121",
+          "followers_total": "2.73M",
+          "image_url": "https://cdn-images.dzcdn.net/images/playlist/147b95617fa371b28fd3cff7097a2171/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "65489647",
+          "playlist_name": "Novedades Argentina",
+          "external_url": "https://www.deezer.com/playlist/65489647",
+          "followers_total": "2.22M",
+          "image_url": "https://cdns-images.dzcdn.net/images/playlist/33af3e2bce3c9f8ea7368babeb2c1d8f/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "1111142221",
+          "playlist_name": "Top UK",
+          "external_url": "https://www.deezer.com/playlist/1111142221",
+          "followers_total": "1.96M",
+          "image_url": "https://cdn-images.dzcdn.net/images/playlist/61230f228f1a14d6c5dd58bb42f65213/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "1116189071",
+          "playlist_name": "Top Turkey",
+          "external_url": "https://www.deezer.com/playlist/1116189071",
+          "followers_total": "1.57M",
+          "image_url": "https://cdn-images.dzcdn.net/images/playlist/29d399f0f56403d142cfb8076c6638d2/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "2098157264",
+          "playlist_name": "Global Hits",
+          "external_url": "https://www.deezer.com/playlist/2098157264",
+          "followers_total": "1.36M",
+          "image_url": "https://cdn-images.dzcdn.net/images/playlist/9548f19cc9d1063d63ac7f40ffb0a0cb/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "516422755",
+          "playlist_name": "Selección Editorial",
+          "external_url": "https://www.deezer.com/playlist/516422755",
+          "followers_total": "917K",
+          "image_url": "https://e-cdns-images.dzcdn.net/images/playlist/2b790f4597811e7fcfa7fee1b5882a7d/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "3155776842",
+          "playlist_name": "Top Worldwide",
+          "external_url": "https://www.deezer.com/playlist/3155776842",
+          "followers_total": "872K",
+          "image_url": "https://cdn-images.dzcdn.net/images/playlist/0b92c2f9e94a1a3650f0de769c4fc07c/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "1363560485",
+          "playlist_name": "Deezer Hits",
+          "external_url": "https://www.deezer.com/playlist/1363560485",
+          "followers_total": "817K",
+          "image_url": "https://cdn-images.dzcdn.net/images/playlist/b6e9be1eb586f0f11d8756ce6b4aa22f/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "948759923",
+          "playlist_name": "Top Hits Internacionais",
+          "external_url": "https://www.deezer.com/playlist/948759923",
+          "followers_total": "812K",
+          "image_url": "https://cdn-images.dzcdn.net/images/playlist/2a4c4fa5a5df6e5bedeb3c9b1c9c1bf2/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "1963962142",
+          "playlist_name": "Hot Pop",
+          "external_url": "https://www.deezer.com/playlist/1963962142",
+          "followers_total": "717K",
+          "image_url": "https://e-cdns-images.dzcdn.net/images/playlist/d6acd2fd23829e4f4658696852d4c0d6/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "1250202481",
+          "playlist_name": "Lançamentos da Semana",
+          "external_url": "https://www.deezer.com/playlist/1250202481",
+          "followers_total": "713K",
+          "image_url": "https://cdn-images.dzcdn.net/images/playlist/31039948807b793cc9dbbe0ba111e34f/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "1116187241",
+          "playlist_name": "Top Italy",
+          "external_url": "https://www.deezer.com/playlist/1116187241",
+          "followers_total": "678K",
+          "image_url": "https://cdn-images.dzcdn.net/images/playlist/99a09b06bcabba31bafbe095740085c4/1000x1000-000000-80-0-0.jpg"
+        },
+        {
+          "playlist_id": "65489840",
+          "playlist_name": "Selectia Deezer",
+          "external_url": "https://www.deezer.com/playlist/65489840",
+          "followers_total": "610K",
+          "image_url": "https://e-cdns-images.dzcdn.net/images/playlist/f2f11db4b9fad917704b4aa8bf534376/1000x1000-000000-80-0-0.jpg"
+        }
+      ]
+    },
+    {
+      "source": "tracklist",
+      "metric": "top_playlists",
+      "scope": "total",
+      "top_playlists": [
+        {
+          "playlist_id": "5jtttu",
+          "playlist_name": "Mainstage, Tomorrowland Weekend 1, Belgium",
+          "external_url": "https://1001.tl/zvn69g1",
+          "followers_total": "131K",
+          "image_url": "https://images.squarespace-cdn.com/content/v1/5d639433a931d500018fa87d/1633784688101-FS7P6TEFT0AYVJ2WP6I7/Timmy+Trumpet.jpg?format=300w"
+        },
+        {
+          "playlist_id": "v4wd7l",
+          "playlist_name": "Mainstage, Ultra Music Festival Miami, United States",
+          "external_url": "https://1001.tl/1mn0q87t",
+          "followers_total": "51K",
+          "image_url": "https://cdn.1001.tl//images/artworks/djs/3/1/7/5/231027-artwork-swedish-house-mafia-653b6bdb4f64e-Medium.webp"
+        },
+        {
+          "playlist_id": "jfw12b",
+          "playlist_name": "Mainstage, Tomorrowland Weekend 1, Belgium",
+          "external_url": "https://1001.tl/15gg4vp9",
+          "followers_total": "46.9K",
+          "image_url": "https://i1.sndcdn.com/avatars-mPxeddGkONWBffBG-tiIRbg-t500x500.jpg"
+        },
+        {
+          "playlist_id": "jnq2ml",
+          "playlist_name": "KREAM Pres. LIQUID : LAB Vol. 8, Trollstigen, Norway",
+          "external_url": "https://1001.tl/24cjrxn1",
+          "followers_total": "41.5K",
+          "image_url": "https://i1.sndcdn.com/avatars-xI0CBAdL75vVb8n0-AiJqjw-t500x500.jpg"
+        },
+        {
+          "playlist_id": "46hmfku",
+          "playlist_name": "Best Of EDM 2019 Rewind Mix",
+          "external_url": "https://1001.tl/2tmtgc19",
+          "followers_total": "41.5K",
+          "image_url": "https://i1.sndcdn.com/avatars-jM4amTsjqo9Y07Za-GyXkcw-t500x500.jpg"
+        },
+        {
+          "playlist_id": "n5nsk2",
+          "playlist_name": "Mainstage, Tomorrowland Weekend 1, Belgium",
+          "external_url": "https://1001.tl/ludl15k",
+          "followers_total": "38.9K",
+          "image_url": "https://images.squarespace-cdn.com/content/v1/5d639433a931d500018fa87d/1633784144317-UMWOCS90D96UX2CQ1WSJ/ALOK.jpg?format=300w"
+        },
+        {
+          "playlist_id": "j7lwkl",
+          "playlist_name": "Big Bootie Mix Volume 17",
+          "external_url": "https://1001.tl/zwf3n2t",
+          "followers_total": "37.6K",
+          "image_url": "https://i1.sndcdn.com/avatars-atGTli7E1tTMoT74-wKcmmQ-t500x500.jpg"
+        },
+        {
+          "playlist_id": "j7lwkl",
+          "playlist_name": "Big Bootie Mix 019",
+          "external_url": "https://1001.tl/z0mhsf1",
+          "followers_total": "37.1K",
+          "image_url": "https://i1.sndcdn.com/avatars-atGTli7E1tTMoT74-wKcmmQ-t500x500.jpg"
+        },
+        {
+          "playlist_id": "sgz7ll",
+          "playlist_name": "Mainstage, Untold Festival, Romania",
+          "external_url": "https://1001.tl/j10uwr9",
+          "followers_total": "35.5K",
+          "image_url": "https://i1.sndcdn.com/avatars-zKdEJsIjRdqQlLfu-QrseMA-t500x500.jpg"
+        },
+        {
+          "playlist_id": "m3qdvl",
+          "playlist_name": "Mainstage, Tomorrowland Weekend 2, Belgium",
+          "external_url": "https://1001.tl/g5duf3k",
+          "followers_total": "35.1K",
+          "image_url": "https://yt3.ggpht.com/A0QRCpfn4yXFRGBRGM9j27ux040F8UelHxWLNcPcL-wavuNP70ytwLEUA5bWYh5XTBJ1N4Ms=s500-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "playlist_id": "lgxhjl",
+          "playlist_name": "Mainstage, Tomorrowland Weekend 1, Belgium",
+          "external_url": "https://1001.tl/1c185wzt",
+          "followers_total": "33.7K",
+          "image_url": "https://cdn.1001.tl//images/artworks/djs/0/9/9/7/231027-artwork-mattn-653b6a8010a9c-Medium.webp"
+        },
+        {
+          "playlist_id": "jnq2ml",
+          "playlist_name": "KREAM Pres. LIQUID : LAB Vol. 7, Kistefos Museum, Norway",
+          "external_url": "https://1001.tl/2dqfxzck",
+          "followers_total": "33.7K",
+          "image_url": "https://i1.sndcdn.com/avatars-xI0CBAdL75vVb8n0-AiJqjw-t500x500.jpg"
+        },
+        {
+          "playlist_id": "j7lwkl",
+          "playlist_name": "Big Bootie Mix Volume 16",
+          "external_url": "https://1001.tl/261s43wt",
+          "followers_total": "33.7K",
+          "image_url": "https://i1.sndcdn.com/avatars-atGTli7E1tTMoT74-wKcmmQ-t500x500.jpg"
+        },
+        {
+          "playlist_id": "sgz7ll",
+          "playlist_name": "Mainstage, Tomorrowland Weekend 1, Belgium",
+          "external_url": "https://1001.tl/2dl4h9kk",
+          "followers_total": "31.3K",
+          "image_url": "https://i1.sndcdn.com/avatars-zKdEJsIjRdqQlLfu-QrseMA-t500x500.jpg"
+        },
+        {
+          "playlist_id": "jnq2ml",
+          "playlist_name": "KREAM Pres. LIQUID : LAB Vol. 6, Gaularfjellet, Norway (1001Tracklists Exclusive Mix)",
+          "external_url": "https://1001.tl/20l4jbnk",
+          "followers_total": "30.3K",
+          "image_url": "https://i1.sndcdn.com/avatars-xI0CBAdL75vVb8n0-AiJqjw-t500x500.jpg"
+        },
+        {
+          "playlist_id": "jnq2ml",
+          "playlist_name": "KREAM Pres. LIQUID : LAB Vol. 9, Savaya Bali, Indonesia",
+          "external_url": "https://1001.tl/1zry5rh1",
+          "followers_total": "29.8K",
+          "image_url": "https://i1.sndcdn.com/avatars-xI0CBAdL75vVb8n0-AiJqjw-t500x500.jpg"
+        },
+        {
+          "playlist_id": "jfw12b",
+          "playlist_name": "Rave Culture Live 001, Club Mythic Rave Culture City",
+          "external_url": "https://1001.tl/v99sbzk",
+          "followers_total": "29.1K",
+          "image_url": "https://i1.sndcdn.com/avatars-mPxeddGkONWBffBG-tiIRbg-t500x500.jpg"
+        },
+        {
+          "playlist_id": "b3mxnu",
+          "playlist_name": "Q-Dance Stage, Tomorrowland Weekend 2, Belgium",
+          "external_url": "https://1001.tl/1p939dj1",
+          "followers_total": "26.5K",
+          "image_url": "https://i1.sndcdn.com/avatars-rRGjGeoPMKfL5ocK-uc2hyg-t500x500.jpg"
+        },
+        {
+          "playlist_id": "576ls02",
+          "playlist_name": "Smash The House Stage, Tomorrowland Weekend 1, Belgium",
+          "external_url": "https://1001.tl/16d82zm9",
+          "followers_total": "26.2K",
+          "image_url": "https://i1.sndcdn.com/avatars-7qtOAJuBFJrU7LKZ-HBIzcw-t500x500.jpg"
+        },
+        {
+          "playlist_id": "jnq2ml",
+          "playlist_name": "KREAM Pres. LIQUID : LAB Vol. 5, Vøringsfossen, Norway",
+          "external_url": "https://1001.tl/1b6brurk",
+          "followers_total": "24.1K",
+          "image_url": "https://i1.sndcdn.com/avatars-xI0CBAdL75vVb8n0-AiJqjw-t500x500.jpg"
+        }
+      ]
+    }
+  ],
+  "artist_info": {
+    "songstats_artist_id": "vxk62ige",
+    "avatar": "https://i.scdn.co/image/ab676161000051744c49dba58421b29648964acd",
+    "site_url": "https://songstats.com/artist/vxk62ige/meduza",
+    "name": "MEDUZA"
+  },
+  "source_ids": [
+    "spotify",
+    "apple_music",
+    "amazon",
+    "deezer",
+    "instagram",
+    "tiktok",
+    "youtube",
+    "shazam",
+    "tracklist",
+    "beatport",
+    "traxsource",
+    "itunes",
+    "tidal",
+    "soundcloud",
+    "facebook",
+    "twitter",
+    "songkick",
+    "bandsintown"
+  ]
+}
+
+
+bizim kod şuan top_playlist arıyor fakat bunu  şurda gördüğün gibi;
+
+if "top_playlists" in veri:
+                for playlist in veri["top_playlists"]:
+
+veri["top_playlist"] şeklinde arıyor bizim verimizde ilk key top_playlist değil sanki burda bi hata var
